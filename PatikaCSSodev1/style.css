@@ -1,0 +1,41 @@
+body{
+    background-color: #4b778d;
+    text-align: center;
+}
+.container{
+    margin-top: 100px;
+}
+.title{
+    color: #d2e69c;
+    font-size: 3em;
+}
+.content{
+    color: #d2e69c;
+    font-size: 1.5em;
+}
+.resim{
+    width: 400px;
+    height: 500px;
+    border: 2px solid #F8DB93;
+    border-radius: 5px;
+}
+.linkler{
+    margin: 5px;
+    font-size: 1.5em;
+    text-decoration: none;
+    color: #F8DB93;
+    border: 2px solid #F8DB93;
+    padding: 5px;
+    border-radius: 5px;
+    transition: all 0.5s;
+}
+.linkler:hover{
+    background-color: #F8DB93;
+    color: #4b778d;
+}
+.iletisimlink{
+    font-size: 1.5em;
+    list-style: none;
+    color: #d2e69c;
+    
+}
